@@ -1,0 +1,19 @@
+.imageupload{
+    width: 60%;
+    background-color: white;
+    border: 1px soild lightgray;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.progressbar{
+    width: 100%;
+}
